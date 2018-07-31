@@ -13,3 +13,7 @@ It may be the coldest day of
 the year, what does he think of
 that? I mean, what do I? And if I do,
 perhaps I am myself again.
+
+
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
